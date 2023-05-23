@@ -1,4 +1,8 @@
 ### olá , eu sou Edvaldo Vitor👋
+<div align="left">
+  <a href="https://github.com/edvaldovitor250">
+  <img height="200em" width="400em" src="https://github-readme-stats.vercel.app/api?username=CaioMelo10&theme=dracula&show_icons=true&title_color=DF9B47&layout=compact&langs_count=7&icon_color=80407E"/>
+</div>
 
 - 🔭Cursando Análise e Desenvolvimento de Sistema
 - 🌱 Estudando JAVA
