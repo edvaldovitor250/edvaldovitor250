@@ -3,6 +3,8 @@
   <a href="https://github.com/edvaldovitor250">
   <img height="200em" width="400em" src="https://github-readme-stats.vercel.app/api?username=edvaldovitor250&theme=dracula&show_icons=true&title_color=DF9B47&layout=compact&langs_count=7&icon_color=80407E"/>
 </div>
+  
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=edvaldovitor250&color=yellow" alt="Profile views" /> </p>
 
 - 🔭Cursando Análise e Desenvolvimento de Sistema
 - 🌱 Estudando JAVA
