@@ -5,19 +5,20 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=edvaldovitor250" alt="edvaldovitor250" /></a> </p>
 
-- 🔭 I’m currently working on I'm currently looking for my first job
- 
-- 🌱 I’m currently learning **String boot,.Net and C#**
+- 🔭 I'm currently seeking my first job in the tech industry.
 
-- 👯 I look to collaborate in any area of technology C# and Java
+- 🌱 I'm actively learning **Spring Boot, .NET, and C#** to enhance my skills.
 
-- 🤝 I'm looking for help with what to do 🤝 I'm looking for help with whatever you need
+- 👯 I'm open to collaboration in any area of technology, particularly in C# and Java.
 
-- 👨‍💻 All of my projects are available at [https://edvaldovitor250.github.io/MeuPortfolio/](https://edvaldovitor250.github.io/MeuPortfolio/)
+- 🤝 I'm looking for guidance and assistance. Feel free to reach out, and I'm happy to help with whatever you need.
 
-- 💬 Ask me about anything you have in doubt **.Net, Spring boot, Bulma, JPA, Junit**
+- 👨‍💻 Explore my projects on my [portfolio](https://edvaldovitor250.github.io/MeuPortfolio/).
 
-- 📫 How to reach me **edvaldovitor250@gmail.com**
+- 💬 Ask me anything related to **.NET, Spring Boot, Bulma, JPA, JUnit** if you have any doubts.
+
+- 📫 Reach out to me at **edvaldovitor250@gmail.com** for any inquiries or opportunities.
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
