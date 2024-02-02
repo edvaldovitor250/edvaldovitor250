@@ -13,7 +13,7 @@
 
 - 🤝 I'm looking for guidance and assistance. Feel free to reach out, and I'm happy to help with whatever you need.
 
-- 👨‍💻 Explore my projects on my [portfolio](https://edvaldovitor250.github.io/MeuPortfolio/).
+- 👨‍💻 Explore my projects on my [portfolio](https://edvaldovitor250.github.io/portifolio-main/).
 
 - 💬 Ask me anything related to **.NET, Spring Boot, Bulma, JPA, JUnit** if you have any doubts.
 
