@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://edvaldovitor250.github.io/portifolio-main/">
-    <img src="https://github.com/user-attachments/assets/6be7347b-09b4-448f-b142-b12fa4ec915c" alt="Animation" width="900" height="400">
+    <img src="https://github.com/user-attachments/assets/5d1a3406-3eec-4b64-b251-5c7d4846d44a" alt="Animation" width="500" height="280">
   </a>
 </div>
 
