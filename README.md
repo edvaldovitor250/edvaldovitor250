@@ -19,14 +19,10 @@
 ---
 
 ### Connect with me
-<!-- Botões para LinkedIn e Email -->
 <div>
-  <!-- Botão para LinkedIn -->
   <a href="https://www.linkedin.com/in/edvaldo-vitor/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn">
   </a>
-
-  <!-- Botão para Email -->
   <a href="mailto:edvaldovitor250@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Email">
   </a>
@@ -60,15 +56,14 @@
 ---
 
 ### WakaTime Stats
-[![Edvaldo's WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=edvaldovitor&layout=compact)](https://wakatime.com/@edvaldovitor)
+[![wakatime](https://wakatime.com/badge/user/c6e6a985-56de-4690-bebe-dfc9a904db4a.svg)](https://wakatime.com/@c6e6a985-56de-4690-bebe-dfc9a904db4a)
+
+<a href="https://github-readme-stats.vercel.app/api/wakatime?username=c6e6a985-56de-4690-bebe-dfc9a904db4a&layout=compact">
+  <img height="137px" src="https://github-readme-stats.vercel.app/api/wakatime?username=c6e6a985-56de-4690-bebe-dfc9a904db4a&layout=compact" alt="Edvaldo's WakaTime Stats"/>
+</a>
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=edvaldovitor250&theme=graywhite&hide_border=true" alt="GitHub Streak Stats"/>
-</p>
-
----
 
 <p align="center">
   Thanks for visiting my profile! Don’t forget to ⭐ my repositories if you like my work!
