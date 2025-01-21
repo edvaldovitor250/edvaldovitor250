@@ -60,7 +60,7 @@
 ---
 
 ### WakaTime Stats
-[![Edvaldo's WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=edvaldovitor&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Edvaldo's WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=edvaldovitor&layout=compact)](https://wakatime.com/@edvaldovitor)
 
 ---
 
