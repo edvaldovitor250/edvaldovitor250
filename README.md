@@ -19,7 +19,18 @@
 ---
 
 ### Connect with me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/edvaldovitor)
+<!-- Botões para LinkedIn e Email -->
+<div>
+  <!-- Botão para LinkedIn -->
+  <a href="https://www.linkedin.com/in/edvaldo-vitor/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn">
+  </a>
+
+  <!-- Botão para Email -->
+  <a href="mailto:edvaldovitor250@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Email">
+  </a>
+</div>
 
 ---
 
