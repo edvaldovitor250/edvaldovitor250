@@ -58,9 +58,7 @@
 ### WakaTime Stats
 [![WakaTime Badge](https://wakatime.com/badge/user/c6e6a985-56de-4690-bebe-dfc9a904db4a.svg)](https://wakatime.com/@c6e6a985-56de-4690-bebe-dfc9a904db4a)
 
-<a href="https://github-readme-stats.vercel.app/api/wakatime?username=c6e6a985-56de-4690-bebe-dfc9a904db4a&layout=compact">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=c6e6a985-56de-4690-bebe-dfc9a904db4a&layout=compact" alt="WakaTime Stats" height="137px" />
-</a>
+![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=c6e6a985-56de-4690-bebe-dfc9a904db4a&layout=compact&langs_count=8&theme=dark)
 
 
 ---
