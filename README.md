@@ -29,7 +29,6 @@
 </div>
 
 ---
-
 ### My Tech Stack
 
 <div align="center">
@@ -56,7 +55,7 @@
 
   **Tools**  
   <div>
-    <img src="https://skillicons.dev/icons?i=docker,git,vscode,pycharm,postman,intellij,datagrip" />
+    <img src="https://skills-icons.vercel.app/api/icons?i=vscode,idea,postman,docker,intellij,datagrip,pycharm" />
   </div>
 
   **Automation & Testing**  
@@ -64,8 +63,17 @@
     <img src="https://skillicons.dev/icons?i=selenium,git" />
   </div>
 
+  **AI & Computer Vision**  
+  <div>
+  <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=opencv,pytorch" />
+  </a>
+</p>
+
   > **Note**: I’m constantly exploring new technologies—this is just the beginning!
 </div>
+
 
 ---
 
