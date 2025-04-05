@@ -30,39 +30,98 @@
 
 ---
 
-### Languages & Tools
-<div>
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,java,spring,python,js,ts,html,css,tailwind,docker,nodejs,git,mongodb,postgres,react,angular" />
-</div>
+### My Tech Stack
 
-> **Note**: I’m constantly exploring new technologies—this is just the beginning!
+<div align="center">
+  
+  **Languages**  
+  <div>
+    <img src="https://skillicons.dev/icons?i=cs,java,python,js,ts" />
+  </div>
+
+  **Front-End**  
+  <div>
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,angular" />
+  </div>
+
+  **Back-End**  
+  <div>
+    <img src="https://skillicons.dev/icons?i=nodejs,dotnet,spring" />
+  </div>
+
+  **Databases**  
+  <div>
+    <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql" />
+  </div>
+
+  **Tools**  
+  <div>
+    <img src="https://skillicons.dev/icons?i=docker,git,vscode,pycharm,postman,intellij,datagrip" />
+  </div>
+
+  **Automation & Testing**  
+  <div>
+    <img src="https://skillicons.dev/icons?i=selenium,git" />
+  </div>
+
+  > **Note**: I’m constantly exploring new technologies—this is just the beginning!
+</div>
 
 ---
 
 ### Featured Projects
-
 - **[My Portfolio](https://edvaldovitor250.github.io/portifolio-main/)** – A showcase of my work and accomplishments.
 
 > Stay tuned for more projects and updates—exciting things are coming soon!
 
 ---
 
-### GitHub Stats
-<a href="https://github.com/edvaldovitor250">
-  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=edvaldovitor250&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" alt="Edvaldo's GitHub stats"/>
-  <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edvaldovitor250&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" alt="Top Languages"/>
-</a>
+## GitHub Stats & Activity
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <!-- GitHub Stats (Cards) -->
+        <img src="https://github-readme-stats.vercel.app/api?username=edvaldovitor250&theme=radical&show_icons=true&hide_border=false&count_private=true" 
+             alt="edvaldovitor250's GitHub Stats" />
+      </td>
+      <td>
+        <!-- Streak Stats -->
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=edvaldovitor250&theme=radical&hide_border=false" 
+             alt="edvaldovitor250's Streak Stats" />
+      </td>
+      <td>
+        <!-- Top Languages -->
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edvaldovitor250&layout=compact&theme=radical&hide_border=false" 
+             alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+<!-- Activity Graph -->
+[![edvaldovitor250's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=edvaldovitor250&theme=dracula)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
 ---
 
-### WakaTime Stats
-[![WakaTime Badge](https://wakatime.com/badge/user/c6e6a985-56de-4690-bebe-dfc9a904db4a.svg)](https://wakatime.com/@c6e6a985-56de-4690-bebe-dfc9a904db4a)
+## WakaTime Stats
 
-![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=c6e6a985-56de-4690-bebe-dfc9a904db4a&layout=compact&langs_count=8&theme=dark)
+<p align="center">
+  <!-- Badge que redireciona para seu perfil WakaTime -->
+  <a href="https://wakatime.com/@c6e6a985-56de-4690-bebe-dfc9a904db4a" target="_blank">
+    <img src="https://wakatime.com/badge/user/c6e6a985-56de-4690-bebe-dfc9a904db4a.svg" alt="WakaTime Badge"/>
+  </a>
+</p>
 
+<p align="center">
+  <!-- Card de stats do GitHub Readme Stats -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api/wakatime?username=c6e6a985-56de-4690-bebe-dfc9a904db4a&range=last_7_days&layout=compact&langs_count=8&theme=dark" 
+    alt="WakaTime Stats"
+  />
+</p>
 
 ---
-
 
 <p align="center">
   Thanks for visiting my profile! Don’t forget to ⭐ my repositories if you like my work!
