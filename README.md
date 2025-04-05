@@ -9,11 +9,11 @@
 
 - 🔭 I’m currently working with **Java (Spring Boot)** and **Python**, focusing on backend development.  
 - 🌱 I’m studying **Microservices** architecture with **Spring Boot** to enhance scalability and reliability in applications.  
-- 🎓 I'm completing my degree in **Analysis and Systems Development (ADS)**.  
-- 👯 Open to collaborating on exciting projects in **C#**, **Java**, **Python**, or any other innovative technologies.  
-- 🤝 I’m happy to learn from others and assist where I can—let's connect!  
-- 👨‍💻 Explore my [portfolio](https://edvaldovitor250.github.io/portifolio-main/) to see what I’ve been working on.  
-- 💬 Feel free to ask me about **Java, Python, .NET, Spring Boot, Microservices, Bulma, JPA, JUnit**, and more.  
+- 🎓 I hold a degree in **Analysis and Systems Development (ADS)** and study **Java** daily to sharpen my skills.  
+- 👯 Open to collaborating on exciting projects in **C#**, **Java**, **Python**, or other innovative technologies.  
+- 🤝 I’m always eager to learn from others and assist wherever possible—let’s connect!  
+- 👨‍💻 Explore my [portfolio](https://edvaldovitor250.github.io/portifolio-main/) to see my recent work.  
+- 💬 Feel free to ask me about **Java, Python, .NET, Spring Boot, Microservices, OpenCv, JPA, JUnit**, and more.  
 - 📫 Contact me via email at **edvaldovitor250@gmail.com** for inquiries or collaboration opportunities.  
 
 ---
