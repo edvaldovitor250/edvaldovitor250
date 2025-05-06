@@ -1,10 +1,11 @@
+
 <div align="center">
   <a href="https://edvaldovitor250.github.io/portifolio-main/">
     <img src="https://github.com/user-attachments/assets/5d1a3406-3eec-4b64-b251-5c7d4846d44a" alt="Animation" width="500" height="280">
   </a>
 </div>
 
-# Hi there, I'm Edvaldo Vitor! 👋
+# Hi there, I'm Edvaldo Vitor! 👋  
 **Full Stack Programmer | Aspiring to build impactful solutions in the tech world**
 
 - 🔭 I’m currently working with **Java (Spring Boot)** and **Python**, focusing on backend development.  
@@ -29,6 +30,7 @@
 </div>
 
 ---
+
 ### My Tech Stack
 
 <div align="center">
@@ -65,13 +67,20 @@
 
   **AI & Computer Vision**  
   <div>
-  <p align="center">
-  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=opencv,pytorch" />
-  </a>
-</p>
+  </div>
 
   > **Note**: I’m constantly exploring new technologies—this is just the beginning!
+</div>
+
+---
+
+### Certificações
+
+<div align="center">
+
+  <img src="https://github.com/user-attachments/assets/92df1eb9-b803-4f24-848f-292082ff4633" alt="Oracle Certification" width="150" />
+
 </div>
 
 
