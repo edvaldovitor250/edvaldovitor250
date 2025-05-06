@@ -57,7 +57,7 @@
 
   **Tools**  
   <div>
-    <img src="https://skills-icons.vercel.app/api/icons?i=vscode,idea,postman,docker,intellij,datagrip,pycharm" />
+    <img src="https://skills-icons.vercel.app/api/icons?i=vscode,idea,postman,docker,intellij,datagrip,pycharm,linux" />
   </div>
 
   **Automation & Testing**  
