@@ -79,7 +79,8 @@
 
 <div align="center">
 
-  <img src="https://github.com/user-attachments/assets/92df1eb9-b803-4f24-848f-292082ff4633" alt="Oracle Certification" width="95" />
+  <img src="https://github.com/user-attachments/assets/92df1eb9-b803-4f24-848f-292082ff4633" alt="Oracle Certification" width="105" />
+  <img src="https://brm-workforce.oracle.com/pdf/certview/images/OCI25AICFAV1.png" width="225" />
 
 </div>
 
